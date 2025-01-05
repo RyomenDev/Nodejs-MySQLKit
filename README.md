@@ -11,7 +11,7 @@ A simple Node.js application connected to a MySQL database for basic CRUD operat
 
 ## Getting Started
 
-## 1. Clone the repo\*\*
+## 1. Clone the repo
 
 ```bash
 git clone https://github.com/verma-kunal/nodejs-mysql.git
@@ -20,7 +20,7 @@ cd nodejs-mysql
 
 > Make sure to create the database and the corresponding table in your mySQL database.
 
-## 2. Configure the database\*\*
+## 2. Configure the database
 
 Create a new MySQL database:**sql**
 
@@ -49,7 +49,7 @@ TABLE_NAME=""
 PORT=3000
 ```
 
-## 3. Initialize and start the development server:\*\*
+## 3. Initialize and start the development server:
 
 ```bash
 npm install
